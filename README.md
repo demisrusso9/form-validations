@@ -1,24 +1,11 @@
-# form-checkout
+# Form-validation
 
-## Project setup
-```
-yarn install
-```
+Testing `vuelidate` package to work with validations in `Portuguese`.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+`yarn` to install dependencies.
 
-### Compiles and minifies for production
-```
-yarn build
-```
+`yarn serve` to start project.
 
-### Lints and fixes files
-```
-yarn lint
-```
+### Layout
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+<img src="photo1.png" height="70%" alt="Form"/>
